@@ -1,0 +1,800 @@
+line 1 column 1 - Warning: missing <!DOCTYPE> declaration
+line 4 column 1 - Warning: discarding unexpected <head>
+line 6 column 22 - Error: <em> is not recognized!
+line 6 column 22 - Warning: discarding unexpected <em>
+line 6 column 92 - Warning: discarding unexpected </em>
+line 37 column 575 - Warning: missing </address> before <div>
+line 37 column 758 - Warning: discarding unexpected </address>
+line 20 column 72 - Warning: <img> lacks "alt" attribute
+line 37 column 575 - Warning: trimming empty <address>
+Info: Document content looks like HTML 4.01 Transitional
+Info: No system identifier in emitted doctype
+8 warnings, 1 error were found!
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+line 1 column 1 - Warning: missing <!DOCTYPE> declaration
+line 4 column 1 - Warning: discarding unexpected <head>
+line 6 column 22 - Error: <em> is not recognized!
+line 6 column 22 - Warning: discarding unexpected <em>
+line 6 column 92 - Warning: discarding unexpected </em>
+line 16 column 115 - Warning: replacing invalid character code 128
+line 16 column 116 - Warning: replacing invalid character code 156
+line 16 column 142 - Warning: replacing invalid character code 128
+line 16 column 143 - Warning: discarding invalid character code 157
+line 30 column 31 - Warning: replacing invalid character code 128
+line 30 column 32 - Warning: replacing invalid character code 156
+line 31 column 13 - Warning: replacing invalid character code 128
+line 31 column 14 - Warning: discarding invalid character code 157
+line 41 column 240 - Warning: replacing invalid character code 128
+line 41 column 241 - Warning: replacing invalid character code 156
+line 41 column 267 - Warning: replacing invalid character code 128
+line 41 column 268 - Warning: discarding invalid character code 157
+line 58 column 207 - Warning: replacing invalid character code 128
+line 58 column 208 - Warning: replacing invalid character code 156
+line 58 column 234 - Warning: replacing invalid character code 128
+line 58 column 235 - Warning: discarding invalid character code 157
+line 61 column 68 - Warning: replacing invalid character code 128
+line 61 column 69 - Warning: replacing invalid character code 156
+line 62 column 18 - Warning: replacing invalid character code 128
+line 62 column 19 - Warning: discarding invalid character code 157
+line 64 column 621 - Warning: missing </address> before <div>
+line 64 column 804 - Warning: discarding unexpected </address>
+line 64 column 621 - Warning: trimming empty <address>
+Info: Document content looks like HTML 4.01 Transitional
+Info: No system identifier in emitted doctype
+27 warnings, 2 errors were found!
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+line 1 column 1 - Warning: missing <!DOCTYPE> declaration
+line 4 column 1 - Warning: discarding unexpected <head>
+line 6 column 22 - Error: <em> is not recognized!
+line 6 column 22 - Warning: discarding unexpected <em>
+line 6 column 92 - Warning: discarding unexpected </em>
+line 28 column 574 - Warning: missing </address> before <div>
+line 28 column 757 - Warning: discarding unexpected </address>
+line 10 column 72 - Warning: <img> lacks "alt" attribute
+line 28 column 574 - Warning: trimming empty <address>
+Info: Document content looks like HTML 4.01 Strict
+Info: No system identifier in emitted doctype
+8 warnings, 3 errors were found!
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+line 1 column 1 - Warning: missing <!DOCTYPE> declaration
+line 4 column 1 - Warning: discarding unexpected <head>
+line 6 column 22 - Error: <em> is not recognized!
+line 6 column 22 - Warning: discarding unexpected <em>
+line 6 column 92 - Warning: discarding unexpected </em>
+line 24 column 80 - Warning: replacing invalid character code 128
+line 24 column 81 - Warning: replacing invalid character code 156
+line 24 column 90 - Warning: replacing invalid character code 128
+line 24 column 91 - Warning: discarding invalid character code 157
+line 30 column 98 - Warning: replacing invalid character code 128
+line 30 column 99 - Warning: replacing invalid character code 156
+line 30 column 111 - Warning: replacing invalid character code 128
+line 30 column 112 - Warning: discarding invalid character code 157
+line 88 column 162 - Warning: replacing invalid character code 128
+line 88 column 163 - Warning: replacing invalid character code 156
+line 88 column 178 - Warning: replacing invalid character code 128
+line 88 column 179 - Warning: discarding invalid character code 157
+line 91 column 86 - Warning: replacing invalid character code 128
+line 91 column 87 - Warning: replacing invalid character code 156
+line 91 column 99 - Warning: replacing invalid character code 128
+line 91 column 100 - Warning: discarding invalid character code 157
+line 96 column 131 - Warning: replacing invalid character code 128
+line 96 column 132 - Warning: replacing invalid character code 156
+line 96 column 147 - Warning: replacing invalid character code 128
+line 96 column 148 - Warning: discarding invalid character code 157
+line 111 column 44 - Warning: replacing invalid character code 128
+line 111 column 45 - Warning: replacing invalid character code 156
+line 111 column 113 - Warning: replacing invalid character code 128
+line 111 column 114 - Warning: discarding invalid character code 157
+line 123 column 98 - Warning: replacing invalid character code 128
+line 123 column 99 - Warning: replacing invalid character code 156
+line 123 column 130 - Warning: replacing invalid character code 128
+line 123 column 131 - Warning: discarding invalid character code 157
+line 125 column 34 - Warning: replacing invalid character code 128
+line 125 column 35 - Warning: replacing invalid character code 156
+line 125 column 44 - Warning: replacing invalid character code 128
+line 125 column 45 - Warning: discarding invalid character code 157
+line 136 column 159 - Warning: replacing invalid character code 128
+line 136 column 160 - Warning: replacing invalid character code 156
+line 136 column 210 - Warning: replacing invalid character code 128
+line 136 column 211 - Warning: discarding invalid character code 157
+line 149 column 111 - Warning: replacing invalid character code 128
+line 149 column 112 - Warning: replacing invalid character code 156
+line 149 column 124 - Warning: replacing invalid character code 128
+line 149 column 125 - Warning: discarding invalid character code 157
+line 165 column 646 - Warning: missing </address> before <div>
+line 165 column 829 - Warning: discarding unexpected </address>
+line 165 column 646 - Warning: trimming empty <address>
+Info: Document content looks like HTML 4.01 Strict
+Info: No system identifier in emitted doctype
+47 warnings, 4 errors were found!
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+line 1 column 1 - Warning: missing <!DOCTYPE> declaration
+line 4 column 1 - Warning: discarding unexpected <head>
+line 6 column 22 - Error: <em> is not recognized!
+line 6 column 22 - Warning: discarding unexpected <em>
+line 6 column 92 - Warning: discarding unexpected </em>
+line 315 column 41 - Warning: replacing invalid character code 128
+line 315 column 42 - Warning: replacing invalid character code 156
+line 315 column 181 - Warning: replacing invalid character code 128
+line 315 column 182 - Warning: discarding invalid character code 157
+line 533 column 99 - Warning: replacing invalid character code 128
+line 533 column 100 - Warning: replacing invalid character code 156
+line 533 column 108 - Warning: replacing invalid character code 128
+line 533 column 109 - Warning: discarding invalid character code 157
+line 581 column 311 - Warning: replacing invalid character code 128
+line 581 column 312 - Warning: replacing invalid character code 156
+line 581 column 320 - Warning: replacing invalid character code 128
+line 581 column 321 - Warning: discarding invalid character code 157
+line 620 column 188 - Warning: replacing invalid character code 128
+line 620 column 189 - Warning: replacing invalid character code 156
+line 620 column 242 - Warning: replacing invalid character code 128
+line 620 column 243 - Warning: discarding invalid character code 157
+line 641 column 56 - Warning: replacing invalid character code 128
+line 647 column 56 - Warning: replacing invalid character code 128
+line 658 column 740 - Warning: missing </address> before <div>
+line 658 column 923 - Warning: discarding unexpected </address>
+line 382 column 48 - Warning: <table> lacks "summary" attribute
+line 658 column 740 - Warning: trimming empty <address>
+Info: Document content looks like HTML 4.01 Transitional
+Info: No system identifier in emitted doctype
+26 warnings, 5 errors were found!
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+line 1 column 1 - Warning: missing <!DOCTYPE> declaration
+line 4 column 1 - Warning: discarding unexpected <head>
+line 6 column 22 - Error: <em> is not recognized!
+7 warnings, 6 errors were found!
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 7 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 8 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+79 warnings, 9 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+8 warnings, 10 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+96 warnings, 11 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+8 warnings, 12 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 13 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+17 warnings, 14 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+11 warnings, 15 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+12 warnings, 16 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+32 warnings, 17 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+19 warnings, 18 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+19 warnings, 19 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+41 warnings, 20 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+40 warnings, 21 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+49 warnings, 22 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+43 warnings, 23 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+39 warnings, 24 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+19 warnings, 25 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+84 warnings, 26 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+8 warnings, 27 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+19 warnings, 28 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+8 warnings, 29 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 30 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 31 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 32 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+79 warnings, 33 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+41 warnings, 34 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+9 warnings, 35 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+21 warnings, 36 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+20 warnings, 37 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+11 warnings, 38 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+13 warnings, 39 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+45 warnings, 40 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+13 warnings, 41 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+47 warnings, 42 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 43 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 44 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 45 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 46 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+17 warnings, 47 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+24 warnings, 48 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 49 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 50 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+49 warnings, 51 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+59 warnings, 52 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+47 warnings, 53 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+13 warnings, 54 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 55 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+75 warnings, 56 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+63 warnings, 57 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 58 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+68 warnings, 59 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+51 warnings, 60 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+51 warnings, 61 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 62 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 63 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 64 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+39 warnings, 65 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+13 warnings, 66 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+35 warnings, 67 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+65 warnings, 68 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+72 warnings, 69 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+8 warnings, 70 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 71 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 72 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+25 warnings, 73 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+61 warnings, 74 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 75 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+44 warnings, 76 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+80 warnings, 77 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+17 warnings, 78 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+14 warnings, 79 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 80 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 81 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+43 warnings, 82 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+11 warnings, 83 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+83 warnings, 84 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+12 warnings, 85 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+11 warnings, 86 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+11 warnings, 87 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 88 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+85 warnings, 89 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+13 warnings, 90 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+24 warnings, 91 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+48 warnings, 92 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+60 warnings, 93 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+79 warnings, 94 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+75 warnings, 95 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+47 warnings, 96 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+99 warnings, 97 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+43 warnings, 98 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+49 warnings, 99 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+55 warnings, 100 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+65 warnings, 101 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 102 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+54 warnings, 103 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+39 warnings, 104 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+31 warnings, 105 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+67 warnings, 106 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+49 warnings, 107 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+47 warnings, 108 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+23 warnings, 109 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+27 warnings, 110 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+23 warnings, 111 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+71 warnings, 112 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+20 warnings, 113 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 114 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 115 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 116 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+11 warnings, 117 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+32 warnings, 118 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+19 warnings, 119 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 120 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 121 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+7 warnings, 122 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+32 warnings, 123 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+67 warnings, 124 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+19 warnings, 125 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+126 warnings, 126 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+12 warnings, 127 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+15 warnings, 128 errors were found! Not all warnings/errors were shown.
+
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+
+Character codes 128 to 159 (U+0080 to U+009F) are not allowed in HTML;
+even if they were, they would likely be unprintable control characters.
+Tidy assumed you wanted to refer to a character with the same byte value in the
+specified encoding and replaced that reference with the Unicode equivalent.
+
+The table summary attribute should be used to describe
+the table structure. It is very helpful for people using
+non-visual browsers. The scope and headers attributes for
+table cells are useful for specifying which headers apply
+to each table cell, enabling non-visual browsers to provide
+a meaningful context for each cell.
+
+The alt attribute should be used to give a short description
+of an image; longer descriptions should be given with the
+longdesc attribute which takes a URL linked to the description.
+These measures are needed for people using non-graphical browsers.
+
+For further advice on how to make your pages accessible
+see http://www.w3.org/WAI/GL. You may also want to try
+"http://www.cast.org/bobby/" which is a free Web-based
+service for checking URLs for accessibility.
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please send bug reports to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium
